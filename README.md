@@ -11,5 +11,6 @@ _Markdown_ Doble guion bajo
 
 _COMMIT: GRABAR_
  * Siempre el readme debe tener extensión .md, de otra manera no carga
+ * Podemos ver imagenes ![Nutrias lindas](./descarga.jpeg)
 
 
